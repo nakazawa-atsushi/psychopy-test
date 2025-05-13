@@ -1,0 +1,74 @@
+4.6863 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+4.6876 	INFO 	Loaded monitor calibration from ['2025_05_02 12:47']
+4.8977 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000013206CEA320>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000013206CEA380>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000013206D84E20>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.8978 	EXP 	window1: backgroundImage = ''
+4.8978 	EXP 	window1: backgroundFit = 'none'
+4.9067 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9077 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9085 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9094 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9103 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9107 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9114 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9123 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9125 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9128 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9135 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9141 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9147 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9154 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9159 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9166 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9173 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9176 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9180 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9190 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9194 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9198 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.9218 	DEBUG 	Upload of Texture Font fontname complete
+4.9289 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9299 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9308 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9311 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.9328 	DEBUG 	Upload of Texture Font fontname complete
+4.9348 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.9349 	EXP 	window1: recordFrameIntervals = False
+5.1058 	EXP 	window1: recordFrameIntervals = True
+5.2899 	EXP 	Screen (0) actual frame rate measured at 59.77Hz
+5.2899 	EXP 	window1: recordFrameIntervals = False
+5.2959 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2964 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2972 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2982 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.2992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.3001 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.3006 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.3014 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.3023 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.3032 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.3036 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.3039 	DEBUG 	Upload of Texture Font fontname complete
+5.3950 	INFO 	keyboard.Keyboard is using ptb backend.
+5.3953 	INFO 	keyboard.Keyboard is using ptb backend.
+5.3954 	EXP 	taniguchi: status = STARTED
+5.4590 	EXP 	Created text_fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+5.4647 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+5.4881 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='1: Human 2:AI Generated, 3:Not Sure', units='height', win=Window(...), wrapWidth=1)
+0.0533 	EXP 	image: image = 'images/1.jpg'
+0.0533 	EXP 	text: autoDraw = True
+1.9860 	DATA 	Keypress: 1
+3.0015 	EXP 	text_fixation: autoDraw = True
+3.0688 	EXP 	text: autoDraw = False
+4.0040 	INFO 	Keyboard events cleared
+4.0039 	EXP 	text_fixation: autoDraw = False
+4.0039 	EXP 	image: autoDraw = True
+14.5009 	EXP 	text_fixation: autoDraw = False
+14.5009 	EXP 	image: autoDraw = False
+14.5009 	EXP 	text: autoDraw = False
+14.5027 	EXP 	taniguchi: status = STOPPED
+14.5051 	INFO 	saved data to 'C:\\Users\\nakazawa\\Desktop\\devel\\psychopy-test\\data/830836_taniguchi_2025-05-02_12h54.37.889.csv'
+14.5057 	INFO 	saved data to C:\Users\nakazawa\Desktop\devel\psychopy-test\data/830836_taniguchi_2025-05-02_12h54.37.889.psydat
+14.5061 	DATA 	Keypress: 1
+14.5472 	DEBUG 	Saving data for taniguchi ExperimentHandler
+14.5505 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+14.5809 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
